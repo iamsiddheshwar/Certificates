@@ -31,7 +31,7 @@ new technologies.
 ## 🔗 Connect With Me
 
 - **GitHub:** [iamsiddheshwar](https://github.com/iamsiddheshwar)
-- **LinkedIn:** Add your LinkedIn profile URL here.
+- **LinkedIn:**(https://www.linkedin.com/in/shindesiddheshwar/)
 
 ---
 
